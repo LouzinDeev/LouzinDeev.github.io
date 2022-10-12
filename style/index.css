@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(66, 66, 66);
+}
+
+header {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    font: normal 25pt Fira Code;
+    color: rgb(0, 4, 255);
+    text-shadow: 2px 2px 0px rgb(255, 252, 252);
+    border: solid;
+    border-radius: 10px;
+}
+
+h2.langs {
+    font: italic 25pt Cascadia Code;
+    text-align: center;
+    text-align: center;
+}
+
+.cmd {
+    display: inline-block;
+    color: rgb(27, 27, 141);
+}
+
+.parent {
+    display: inline-block;
+    color: yellow;
+}
+
+.str {
+    display: inline-block;
+    color: green;
+}
+
+
+
+h3 {
+    font: bold 20pt Fira Code;
+    color: white;
+    background-color: black;
+    text-align: center;
+    border: solid 3px blue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.pages {
+    font-size: large;
+    text-decoration: none;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-shadow: 3px 3px 1px blue;
+    font-size: 15pt;
+}
